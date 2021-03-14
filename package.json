@@ -1,0 +1,22 @@
+{
+  "name": "wdio-ts",
+  "version": "1.0.0",
+  "description": "End-to-end web-testing with WebDriver.io + MochaJS + Typescript",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vandervan/wdio-ts.git"
+  },
+  "author": "Arthur Krivitsky <arthur.vandervan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vandervan/wdio-ts/issues"
+  },
+  "homepage": "https://github.com/vandervan/wdio-ts#readme",
+  "dependencies": {
+    "@wdio/cli": "^7.1.2"
+  }
+}
