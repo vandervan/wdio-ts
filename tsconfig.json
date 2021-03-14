@@ -13,7 +13,10 @@
     "types": [
       "node",
       "webdriverio/sync",
-      "@wdio/mocha-framework"
+      "@wdio/mocha-framework",
+      "@types/mocha",
+      "@types/node",
+      "@types/chai"
     ],
   },
   "include": [
