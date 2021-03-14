@@ -10,13 +10,13 @@
     "noImplicitAny": true,
     "strictPropertyInitialization": true,
     "strictNullChecks": true,
+    "esModuleInterop": true,
     "types": [
       "node",
       "webdriverio/sync",
+      "@wdio/sync",
       "@wdio/mocha-framework",
-      "@types/mocha",
-      "@types/node",
-      "@types/chai"
+      "expect-webdriverio"
     ],
   },
   "include": [
