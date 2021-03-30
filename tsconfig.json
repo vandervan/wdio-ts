@@ -16,7 +16,7 @@
       "webdriverio/sync",
       "@wdio/sync",
       "@wdio/mocha-framework",
-      "expect-webdriverio"
+      "@types/chai"
     ],
   },
   "include": [
